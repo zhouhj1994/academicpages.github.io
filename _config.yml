@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huijuan Zhou's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Huijuan Zhou"
 description              : &description "personal description"
