@@ -12,4 +12,4 @@ Hello! I am in the dual Ph.D. program between the [Department of Statistics](htt
 
 
 ### Contact
-Email: zhouhuijuan@tamu.edu; zhou.huijuan@ruc.edu.cn
+Email: zhouhuijuan@tamu.edu
