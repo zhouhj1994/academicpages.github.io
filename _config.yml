@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Huijuan Zhou's Homepage"
 title_separator          : "-"
-name                     : &name "Huijuan Zhou | 周慧娟"
+name                     : &name "Huijuan Zhou"
 description              : &description "personal description"
 url                      : https://zhouhj1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huijuan Zhou"
+  name             : "Huijuan Zhou | 周慧娟"
   avatar           : "profile_huijuanzhou.jpg"
   bio              : #"Ph.D. candidate in statistics"
   location         : #"College Station"
