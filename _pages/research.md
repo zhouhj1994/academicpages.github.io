@@ -18,5 +18,5 @@ author_profile: true
 
 ## Working papers
 * Zhou, H., He, K., Zhang, X. & Chen, J. (2020). A simple method to differential abundance analysis. 
-* Zhou, H. & Zhang, X. (2020). Approximate message passing algorithm for cox proportional hazards models.
+* Zhou, H. & Zhang, X. (2020). Approximate message passing algorithm for Cox proportional hazards models.
 * Zhou, H., Stephan, C. & Zhang, K. K. (2020). Nonlinear analysis of combinatorial drug synergy.
