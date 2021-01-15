@@ -14,7 +14,7 @@ author_profile: true
 
 ## Publications
 * Zhou, H., Zhang, X., & Chen, J. (2020). Covariate adaptive family-wise error rate control for genome-wide association studies. *Biometrika*, forthcoming. [arXiv](https://arxiv.org/abs/2011.01107v2) [GitHub](https://github.com/jchen1981/CAMT/)
-* Ding, Z., Zhou, H., McCauley N., Ko, G., Zhang, K. K. & Xie, L. (2020). In ovo hyperglycemia causes congenital limb defects in chicken embryos via disruption of cell proliferation and apoptosis. *Biochimica et Biophysica Acta - Molecular Basis of Disease* **1866**, 165955. [Link](https://pubmed.ncbi.nlm.nih.gov/32877749/)
+* Ding, Z., Zhou, H., McCauley N., Ko, G., Zhang, K. K. & Xie, L. (2020). In ovo hyperglycemia causes congenital limb defects in chicken embryos via disruption of cell proliferation and apoptosis. *Biochimica et Biophysica Acta - Molecular Basis of Disease* **1866**, 165955. **doi:**[https://doi.org/10.1016/j.bbadis.2020.165955](https://doi.org/10.1016/j.bbadis.2020.165955)
 * Zhou, H., Xue, C., Gao, G., Lawless, L., Xie, L. & Zhang, K. K. (2020) Characterizing the transmission and identifying the control strategy for COVID-19 through epidemiological modeling. *MedRXiv* **doi:** [https://doi.org/10.1101/2020.02.24.20026773](https://doi.org/10.1101/2020.02.24.20026773)
 
 ## Working papers
