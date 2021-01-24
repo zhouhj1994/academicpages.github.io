@@ -18,6 +18,6 @@ author_profile: true
 * Zhou, H., Xue, C., Gao, G., Lawless, L., Xie, L. & Zhang, K. K. (2020). Characterizing the transmission and identifying the control strategy for COVID-19 through epidemiological modeling. *MedRXiv*. **doi:** [https://doi.org/10.1101/2020.02.24.20026773](https://doi.org/10.1101/2020.02.24.20026773)
 
 ## Working papers
-* Zhou, H., He, K., Zhang, X. & Chen, J. (2020). A simple method to differential abundance analysis. 
+* Zhou, H., Zhang, X., He, K. & Chen, J. (2020). A linear regression framework for differential abundance analysis.
 * Zhou, H. & Zhang, X. (2020). Approximate message passing algorithm for Cox proportional hazards models.
 * Zhou, H., Stephan, C. & Zhang, K. K. (2020). Nonlinear analysis of combinatorial drug synergy.
