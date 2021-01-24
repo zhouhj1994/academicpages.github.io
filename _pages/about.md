@@ -12,4 +12,4 @@ I am currently a Ph.D. candidate in the dual program between the [Department of 
 
 
 ### Contact
-Email: zhouhuijuan@tamu.edu
+Email: huijuan@stat.tamu.edu
