@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the [School of Statistics and Management](https://ssm.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn). Previously, I obtained my dual Ph.D. in Statistics from the [Department of Statistics](https://stat.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/) advised by [Prof. Xianyang Zhang](https://stat.tamu.edu/~zhangxiany/) (2021.05) and from the [Institute of Statistics and Big Data](http://isbd.ruc.edu.cn/) at [Renmin University of China](https://www.ruc.edu.cn/en) advised by [Prof. Shaojun Guo](https://sites.google.com/site/guoshaojun20170709/) (2021.12). I obtained my B.S. in Statistics from the [School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm) at [Wuhan University](https://en.whu.edu.cn/) in 2016.
+I am an assistant professor at the [School of Statistics and Management](https://ssm.sufe.edu.cn) at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn). Previously, I obtained my dual Ph.D. in Statistics from the [Department of Statistics](https://stat.tamu.edu/) at [Texas A&M University](https://www.tamu.edu/) (2021.05) advised by [Prof. Xianyang Zhang](https://stat.tamu.edu/~zhangxiany/) and from the [Institute of Statistics and Big Data](http://isbd.ruc.edu.cn/) at [Renmin University of China](https://www.ruc.edu.cn/en) (2021.12) advised by [Prof. Shaojun Guo](https://sites.google.com/site/guoshaojun20170709/). I obtained my B.S. in Statistics from the [School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm) at [Wuhan University](https://en.whu.edu.cn/) in 2016.
 
 ### Contact
 Email: huijuanzhou2019@gmail.com
