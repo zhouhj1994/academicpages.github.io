@@ -5,6 +5,8 @@ permalink: /Research/
 author_profile: true
 ---
 
+“We must be careful not to confuse data with the abstractions we use to analyse them.”   — William James
+
 ## Research interest
 * Multiple testing
 * Statistical bioinformatics
