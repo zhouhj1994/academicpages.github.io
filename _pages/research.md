@@ -11,8 +11,8 @@ author_profile: true
 * Multiple testing
 * Statistical bioinformatics
 * High-dimensional statistics 
-<!--* Machine learning
-* Deep learning-->
+<!--* Machine learning-->
+<!--* Deep learning-->
 
 ## Publications and preprints
 * Zhang, X., Zhou, H., & Ye, H. (2022). A modern theory for high-dimensional cox regression models. [arXiv](https://arxiv.org/abs/2204.01161)
