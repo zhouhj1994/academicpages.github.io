@@ -15,7 +15,7 @@ author_profile: true
 <!--* Deep learning-->
 
 ## Publications 
-* Zhou, H., Yang, L., Chen, J., \& \textsc{Zhang, X.} (2023). Bimodal Dirichlet distributions and its application to microbiome data analysis. Under review.
+* Zhou, H., Yang, L., Chen, J., & Zhang, X. (2023). Bimodal Dirichlet distributions and its application to microbiome data analysis. Under review.
 * Zhao, H., & Zhou, H. (2023).  $\tau$-censored weighted Benjamini-Hochberg procedures under independence. *Biometrika*, accepted.
 * Zhang, X., Zhou, H., & Ye, H. (2022). A modern theory for high-dimensional cox regression models. [arXiv](https://arxiv.org/abs/2204.01161)
 * Zhou, H., He, K., Chen, J., & Zhang, X. (2022). LinDA: Linear models for differential abundance analysis of microbiome compositional data. *Genome Biology*, 23:95. [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5) [GitHub](https://github.com/zhouhj1994/LinDA-manuscript-sourcecode) [CRAN](https://CRAN.R-project.org/package=MicrobiomeStat)
