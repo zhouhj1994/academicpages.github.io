@@ -10,9 +10,10 @@ author_profile: true
 ## Research interest
 * Multiple testing
 * Statistical bioinformatics
+* Deep learning
 <!--* High-dimensional statistics--> 
 <!--* Machine learning-->
-* Deep learning
+
 
 ## Publications 
 * Zhou, H., Yang, L., Chen, J., & Zhang, X. (2024). Bimodal Dirichlet distributions and its application to microbiome data imputation. Under review.
